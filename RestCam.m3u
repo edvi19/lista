@@ -1,25 +1,25 @@
 #EXTM3u
 #EXTINF: 0; Entrada LOW
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=1&subtype=1
 #EXTINF: 0; Cocina LOW
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=2&subtype=1
 #EXTINF: 0; Barra LOW
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=3&subtype=1
 #EXTINF: 0; Comedor LOW
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=4&subtype=1
 #EXTINF: 0; Entrada HIGH
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=1&subtype=0
 #EXTINF: 0; Cocina HIGH
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=2&subtype=0
 #EXTINF: 0; Barra HIGH
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=3&subtype=0
 #EXTINF: 0; Comedor HIGH
-rtsp://admin:19EdZoD@81@200.68.140.47:3777/cam/realmonitor?
+rtsp://admin:19EdZoD!81@200.68.140.47:3777/cam/realmonitor?
 channel=4&subtype=0
